@@ -1,0 +1,7 @@
+#ifndef WINDOW_CONFIG_H
+#define WINDOW_CONFIG_H
+
+#define WINDOW_GRID_WIDTH 100
+#define WINDOW_GRID_HEIGHT 70
+
+#endif
